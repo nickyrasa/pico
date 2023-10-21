@@ -1,0 +1,17 @@
+{
+    "name": "nicky/composer",
+    "autoload": {
+        "psr-4": {
+            "Nicky\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nicky",
+            "email": "nickyrasa@gmail.com"
+        }
+    ],
+    "require": {
+        "picocss/pico": "^1.5"
+    }
+}

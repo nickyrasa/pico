@@ -1,0 +1,67 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "c9cb96129b15edbade2176014ce2922a",
+    "packages": [
+        {
+            "name": "picocss/pico",
+            "version": "v1.5.10",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/picocss/pico.git",
+                "reference": "5ce6840d493fbe9bffc967bad22f90d737362fa9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/picocss/pico/zipball/5ce6840d493fbe9bffc967bad22f90d737362fa9",
+                "reference": "5ce6840d493fbe9bffc967bad22f90d737362fa9",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Lucas Larroche",
+                    "email": "lucas@larroche.com",
+                    "homepage": "https://lucaslarroche.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Minimal CSS Framework for semantic HTML.",
+            "homepage": "https://picocss.com",
+            "keywords": [
+                "CSS-Framework",
+                "css",
+                "dark-mode",
+                "dark-theme",
+                "lightweight",
+                "minimal",
+                "minimalist",
+                "minimalistic",
+                "native-html",
+                "scss-framework",
+                "semantic"
+            ],
+            "support": {
+                "issues": "https://github.com/picocss/pico/issues/",
+                "source": "https://github.com/picocss/pico/tree/v1.5.10"
+            },
+            "time": "2023-04-22T05:31:59+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}
